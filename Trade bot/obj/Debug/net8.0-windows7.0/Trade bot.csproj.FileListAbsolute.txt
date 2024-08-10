@@ -1,0 +1,61 @@
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.csproj.AssemblyReference.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade_bot.Home.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade_bot.Login.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade_bot.OpenAccount.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade_bot.Properties.Resources.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade_bot.Register.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.csproj.GenerateResource.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.AssemblyInfoInputs.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.AssemblyInfo.cs
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.csproj.CoreCompileInputs.cache
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\MT5APIManager.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Trade bot.exe
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Trade bot.deps.json
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Trade bot.runtimeconfig.json
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Trade bot.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Trade bot.pdb
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\BarsGroup.CodeGuard.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\BouncyCastle.Cryptography.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Castle.Core.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Castle.Windsor.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\DotNetty.Buffers.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\DotNetty.Codecs.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\DotNetty.Common.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\DotNetty.Handlers.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\DotNetty.Transport.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Google.Protobuf.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\K4os.Compression.LZ4.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\K4os.Compression.LZ4.Streams.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\K4os.Hash.xxHash.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\log4net.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Mt5.WebApi.TcpProto.Wrapper.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\mt5api.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\MySql.Data.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\NullGuard.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\OpenTl.BouncyCastle.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\OpenTl.ClientApi.MtProto.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\OpenTl.Common.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\OpenTl.Netty.Socks.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\OpenTl.Schema.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\ZstdSharp.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\comerr64.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\gssapi64.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\k5sprt64.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\krb5_64.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\krbcc64.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\MetaQuotes.MT5CommonAPI.dll
+F:\Trade bot\Trade bot\Trade bot\bin\Debug\net8.0-windows7.0\MetaQuotes.MT5ManagerAPI.dll
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.csproj.Up2Date
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.dll
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\refint\Trade bot.dll
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.pdb
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\Trade bot.genruntimeconfig.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net8.0-windows7.0\ref\Trade bot.dll

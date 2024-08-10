@@ -1,0 +1,10 @@
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.csproj.AssemblyReference.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade_bot.Home.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade_bot.Login.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade_bot.Properties.Resources.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade_bot.Register.resources
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.csproj.GenerateResource.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.AssemblyInfoInputs.cache
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.AssemblyInfo.cs
+F:\Trade bot\Trade bot\Trade bot\obj\Debug\net5.0-windows7.0\Trade bot.csproj.CoreCompileInputs.cache

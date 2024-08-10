@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Trade bot\\Trade bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|f:\\trade bot\\trade bot\\trade bot\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|solutionrelative:trade bot\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|f:\\trade bot\\trade bot\\trade bot\\openaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|solutionrelative:trade bot\\openaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|f:\\trade bot\\trade bot\\trade bot\\metatrader5api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|solutionrelative:trade bot\\metatrader5api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|f:\\trade bot\\trade bot\\trade bot\\openaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|solutionrelative:trade bot\\openaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|F:\\Trade bot\\Trade bot\\trade bot\\openaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63E049A7-AC7C-4D7B-AB0D-032FDED98A4D}|Trade bot\\Trade bot.csproj|solutionrelative:trade bot\\openaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "F:\\Trade bot\\Trade bot\\Trade bot\\Home.cs",
+              "RelativeDocumentMoniker": "Trade bot\\Home.cs",
+              "ToolTip": "F:\\Trade bot\\Trade bot\\Trade bot\\Home.cs",
+              "RelativeToolTip": "Trade bot\\Home.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:17:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenAccount.Designer.cs",
+              "DocumentMoniker": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.Designer.cs",
+              "RelativeDocumentMoniker": "Trade bot\\OpenAccount.Designer.cs",
+              "ToolTip": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.Designer.cs",
+              "RelativeToolTip": "Trade bot\\OpenAccount.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:17:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetaTrader5API.cs",
+              "DocumentMoniker": "F:\\Trade bot\\Trade bot\\Trade bot\\MetaTrader5API.cs",
+              "RelativeDocumentMoniker": "Trade bot\\MetaTrader5API.cs",
+              "ToolTip": "F:\\Trade bot\\Trade bot\\Trade bot\\MetaTrader5API.cs",
+              "RelativeToolTip": "Trade bot\\MetaTrader5API.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:55:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAccount.cs",
+              "DocumentMoniker": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.cs",
+              "RelativeDocumentMoniker": "Trade bot\\OpenAccount.cs",
+              "ToolTip": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.cs",
+              "RelativeToolTip": "Trade bot\\OpenAccount.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:18:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenAccount.cs [Design]",
+              "DocumentMoniker": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.cs",
+              "RelativeDocumentMoniker": "Trade bot\\OpenAccount.cs",
+              "ToolTip": "F:\\Trade bot\\Trade bot\\Trade bot\\OpenAccount.cs [Design]",
+              "RelativeToolTip": "Trade bot\\OpenAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:07:45.558Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

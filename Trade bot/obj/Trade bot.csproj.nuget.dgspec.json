@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Trade bot\\Trade bot\\Trade bot\\Trade bot.csproj": {}
+  },
+  "projects": {
+    "F:\\Trade bot\\Trade bot\\Trade bot\\Trade bot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Trade bot\\Trade bot\\Trade bot\\Trade bot.csproj",
+        "projectName": "Trade bot",
+        "projectPath": "F:\\Trade bot\\Trade bot\\Trade bot\\Trade bot.csproj",
+        "packagesPath": "C:\\Users\\tusha\\.nuget\\packages\\",
+        "outputPath": "F:\\Trade bot\\Trade bot\\Trade bot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "MetaTrader5.Net.API": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Mt5.WebApi.TcpProto.Wrapper": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenTl.ClientApi.MtProto": {
+              "target": "Package",
+              "version": "[0.7.97, )"
+            },
+            "mtapi.be.mt5net": {
+              "target": "Package",
+              "version": "[5.4353.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
